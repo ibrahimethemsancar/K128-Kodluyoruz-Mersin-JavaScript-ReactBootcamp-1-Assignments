@@ -1,0 +1,42 @@
+#head {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    margin-top: 0;
+}
+
+
+#text{
+    height: 1.8rem;
+    width: 20rem;
+    background-color: #7D7D7D;
+    margin: 120px 10px; 
+    margin-right: 20px;
+    margin-left: 500px;
+    
+}
+#btn{
+    height: 2.2rem;
+    background-color: #eef3f8;
+    border-radius: 0.7rem;
+    font-family: sans-serif, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+}
+
+#context{
+    width: 80%;
+    height: 300px;
+    margin: 50px 10%;
+    border:solid ;
+    border-color: black;
+    border-width: 1px;
+    
+}
+
+.list{
+   list-style: none;
+   
+}
+.list>li{
+    padding-top: 0.5rem;
+}
